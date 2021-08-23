@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [WEB503teams](https://teams.microsoft.com/l/team/19%3a1b496be02a4249c2acd41097f307dfcf%40thread.tacv2/conversations?groupId=3b29c958-d7ed-4381-9f29-d55afcdc54b0&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [WEB503 MS teams](https://teams.microsoft.com/l/channel/19%3aiINrWvGZRfPTJYiWcvt-Z2LD1Ux9D2HxVD-bkgbDt5E1%40thread.tacv2/General?groupId=258b4662-b775-4bcd-961a-e62fc74526ce&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
 
 
@@ -58,7 +58,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://drive.google.com/file/d/1l2n9NaDzorFODIohpzhuHg0fs1hSnwrg/view?usp=sharing)|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Two Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/ER4fh21xEudNmUgczg4I6PABkXHlJMiasyCSzYo7AvxB5Q?e=FfutHS)|
 |---|---|---|---|
 
 
